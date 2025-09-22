@@ -54,8 +54,8 @@ const HomeScreen: React.FC<HomeScreenProps> = ({ socket }) => {
     return (
         <Card>
             <div className="text-center">
-                <h1 className="text-4xl md:text-5xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-pink-500 to-violet-500 mb-2">Wer würde eher?</h1>
-                <p className="text-lg md:text-xl text-slate-300 font-semibold">Online Edition</p>
+                <h1 className="text-4xl md:text-5xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-pink-500 to-violet-500 mb-1">Wer würde Eher?</h1>
+                <p className="text-lg text-slate-400">Stammtisch Kollnau Edt.</p>
             </div>
 
             <div className="my-8 space-y-4">
